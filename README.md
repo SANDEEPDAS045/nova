@@ -1,4 +1,4 @@
- 🍽️ NOVA Restaurant Management System
+# 🍽️ NOVA Restaurant Management System
 
 A full-stack restaurant management dashboard with a dark fintech-inspired UI.
 
